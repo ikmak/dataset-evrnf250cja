@@ -4,3 +4,4 @@
     url = s3://datasets/evrnf250cja
     endpointurl = https://oss.xhang.buaa.edu.cn:8083
     use_ssl = true
+    allow_anonymous_login = true
