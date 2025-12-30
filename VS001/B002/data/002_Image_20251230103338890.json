@@ -1,0 +1,13 @@
+{
+  "version": "3.3.3",
+  "flags": {
+    "overall_ok": true,
+    "current_region_ng": false,
+    "other_regions_ng": false
+  },
+  "shapes": [],
+  "imagePath": "002_Image_20251230103338890.bmp",
+  "imageData": null,
+  "imageHeight": 3648,
+  "imageWidth": 5472
+}
